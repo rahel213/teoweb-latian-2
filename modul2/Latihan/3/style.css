@@ -1,0 +1,29 @@
+.box_Rahel{
+    background-color: #f0d384;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 0 10px 10px 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family:"lucida Handwriting" ;
+  }
+
+.box_Robin{
+  background-color: #84dcff;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 0 10px 10px 0;
+  box-sizing: border-box;
+  text-align: center;
+  font-family:"lucida Handwriting" ;
+}  
+
+.box_Sugiarti {
+  background-color: #8ae613;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 0 10px 10px 0;
+  box-sizing: border-box;
+  text-align: center;
+  font-family:"lucida Handwriting" ;
+}

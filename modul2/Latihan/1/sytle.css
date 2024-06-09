@@ -1,0 +1,18 @@
+.border{
+    border: 2px solid black;
+}
+.merah{
+    color:red;
+}
+.hijau{
+    color:green;
+}
+.foto{
+    border: 1px;
+}
+.bold{
+    font-weight: bold;
+}
+ul{
+    font-family: arial;
+}
